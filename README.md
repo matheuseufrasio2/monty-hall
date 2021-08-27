@@ -19,9 +19,9 @@
 
 <br />
 
-## See it on production
+## See it in production
 
-<a href="https://www.udemy.com/course/nextjs-e-react/">Monty Hall - Published on Vercel</a>
+<a href="https://monty-hall-alpha.vercel.app/">Monty Hall - Published on Vercel</a>
 
 ## Where am I learn this
 
