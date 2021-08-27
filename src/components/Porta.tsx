@@ -1,3 +1,4 @@
+import { MouseEventHandler } from 'react';
 import PortaModel from '../model/porta';
 import styles from '../styles/components/Porta.module.css';
 import { Presente } from './Presente';
@@ -11,8 +12,8 @@ export function Porta({ value, onChange }: PortaProps) {
 
   const door = value.selecionada && !value.aberta ? styles.selecionada : '';
 
-  const alternarSelecao = e => onChange(value.alternarSelecao());
-  const abrir = e => {
+  const alternarSelecao = (e: any) => onChange(value.alternarSelecao());
+  const abrir = (e: any) => {
     e.stopPropagation();
     onChange(value.abrir());
   }
