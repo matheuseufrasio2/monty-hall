@@ -19,6 +19,10 @@
 
 <br />
 
+## See it on production
+
+<a href="https://www.udemy.com/course/nextjs-e-react/">Monty Hall - Published on Vercel</a>
+
 ## Where am I learn this
 
 <a href="https://www.udemy.com/course/nextjs-e-react/">Course: Next.js e React - Curso Completo 2021 - Aprenda com Projetos</a>
